@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springsecurity
+
+server:
+  port: 8082
